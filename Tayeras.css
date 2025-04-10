@@ -1,0 +1,125 @@
+.Debut{
+  background-color: rgb(107, 222, 107);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.Fearless{
+  background-color: rgb(226, 215, 122);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.SpeakNow{
+  background-color: rgb(203, 117, 196);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.Red{
+  background-color: rgb(226, 122, 122);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.t1989{
+  background-color: rgb(122, 226, 209);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.Reputation{
+  background-color: rgb(46, 48, 48);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+  color:white;
+}
+.Lover{
+  background-color: rgb(226, 122, 148);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.Folklore{
+  background-color: rgb(107, 108, 108);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.Evermore{
+  background-color: rgb(142, 79, 54);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.Midnight{
+  background-color: rgb(80, 80, 141);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+.TTPD{
+  background-color: rgb(76, 80, 80);
+  border-radius: 5px; 
+  padding: 3px 8px;
+  border: none;
+}
+  #contenido {
+    width: 50px;
+    margin: 0 auto;
+  }
+  body {
+    background-color: #BFC9CA;
+    font-family: "Comic Sans MS", cursive;
+  }
+  h1 {
+    color: #1A5276;
+    font-family: Cambria;
+  }  
+#contenido3 {
+    width: 900px;
+    margin: 0 auto;
+}
+
+#contenido2 {
+    width: 190px;
+    margin: 0 auto;
+}
+
+#contenido4 {
+    width: 900px;
+    margin: 0 auto;
+}
+
+#contenido5 {
+    width: 200px;
+    margin: 0 auto;
+}
+html{
+   align-items: center;
+}
+header {
+    background-color: #f8c5f0;
+    padding: 10px 0;
+  }
+  header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+  header nav ul li {
+    position: relative;
+  }
+  header nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+  }
+  body{
+    background-color: #fadef9;
+  }
